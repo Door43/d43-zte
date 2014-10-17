@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zte:home|Door43 (zte)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zte|d43-zte repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zte/archive/master.zip|d43-zte.zip]]
+
+**Recent Changes**
+{{changes>ns = zte}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zte|Ethnologue data]]
+
